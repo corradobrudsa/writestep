@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.cicciocico",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://drive.google.com/file/d/1VR82u_8H85QAZWCKmViTdWRZnvS6C7fH/view?usp=drive_link",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "\n\n",
+      "name": "writesteps",
+      "screenshotURLs": [""],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "writesteps",
+  "news": [],
+  "userInfo": {}
+}
